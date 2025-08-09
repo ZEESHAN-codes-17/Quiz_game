@@ -34,9 +34,6 @@ A simple GUI-based quiz game built with Python and Tkinter. Users can select a c
 
 - `quiz.py` - Main application file containing all logic and quiz data.
 
-## Screenshots
-
-![Quiz Game Screenshot](screenshot.png) <!-- Add a screenshot if available -->
 
 ## License
 
